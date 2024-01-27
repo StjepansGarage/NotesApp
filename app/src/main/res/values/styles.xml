@@ -1,0 +1,13 @@
+<resources>
+
+
+
+
+    <!-- Definirajte vlastiti stil za AlertDialog -->
+<style name="MyAlertDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+<item name="android:textColorPrimary">@color/white</item>
+<item name="background">@color/main_light</item>
+    <item name="android:radius">20dp</item>
+</style>
+
+    </resources>

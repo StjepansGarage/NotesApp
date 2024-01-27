@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#5d727b</color>
+    <color name="main_light">#96b7a5</color>
+    <color name="sticky_1">#ff7eb9</color>
+    <color name="sticky_2">#ff65a3</color>
+    <color name="sticky_3">#7afcff</color>
+    <color name="sticky_4">#feff9c</color>
+    <color name="sticky_5">#fff740</color>
+    <color name="search">#fff5cf</color>
+</resources>
